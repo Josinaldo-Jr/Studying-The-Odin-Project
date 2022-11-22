@@ -1,0 +1,123 @@
+---------------------------------
+TESTANDO O CONHECIMENTO:
+---------------------------------
+
+-Quais são os 2 benefícios de ter mensagens de Commit bem escrita e um bom histórico de Commit?
+	O primeiro benefício é que uma boa mensagem de Commit ajudará a você e outros desenvolvedores entenderem de uma maneira breve quais mudanças foram aplicadas/feitas.
+	O segundo benefício é que a prática de boas mensagens vai ajudar a você mesmo a lembrar qual foi a ultima alteração e o porque ela foi feita no projeto. Principalmente em projetos que por algum motivo você precisou parar para depois voltar.
+	O histório de Commit bem claro/escrito serve para que os recrutadores consigam avaliar melhor o seu perfil, evolução e domínio ao gerenciar projetos.
+
+
+
+-Quantos caracteres dever ter na linha de assunto da mensagem do seu Commit?
+	Deve ter no máximo 50 caracteres. Depois seguir com uma linha em branco, e o corpo com no máximo 72 caracteres por linha. 
+
+
+
+---------------------------------
+GUIA:
+---------------------------------
+
+	1-Separe o assunto do corpo com uma linha em branco
+	2-Limite a linha de assunto a 50 caracteres
+	3-Capitalize a linha de assunto
+	4-Não termine a linha de assunto com um ponto
+	5-Use o modo imperativo na linha de assunto
+	6-Enrole o corpo em 72 caracteres
+	7-Use o corpo para explicar o que e por que vs. como
+
+
+---------------------------------
+EXEMPLO I:
+---------------------------------
+
+Summarize changes in around 50 characters or less
+
+More detailed explanatory text, if necessary. Wrap it to about 72
+characters or so. In some contexts, the first line is treated as the
+subject of the commit and the rest of the text as the body. The
+blank line separating the summary from the body is critical (unless
+you omit the body entirely); various tools like `log`, `shortlog`
+and `rebase` can get confused if you run the two together.
+
+Explain the problem that this commit is solving. Focus on why you
+are making this change as opposed to how (the code explains that).
+Are there side effects or other unintuitive consequences of this
+change? Here's the place to explain them.
+
+Further paragraphs come after blank lines.
+
+ - Bullet points are okay, too
+
+ - Typically a hyphen or asterisk is used for the bullet, preceded
+   by a single space, with blank lines in between, but conventions
+   vary here
+
+If you use an issue tracker, put references to them at the bottom,
+like this:
+
+Resolves: #123
+See also: #456, #789
+
+
+
+---------------------------------
+EXEMPLO II:
+---------------------------------
+
+Derezz the master control program
+
+MCP turned out to be evil and had become intent on world domination.
+This commit throws Tron's disc into MCP (causing its deresolution)
+and turns it back into a chess game.
+
+
+---------------------------------
+EXEMPLO III:
+---------------------------------
+
+More Example:
+
+feat: (new feature for the user, not a new feature for build script)
+fix: (bug fix for the user, not a fix to a build script)
+docs: (changes to the documentation)
+style: (formatting, missing semi colons, etc; no production code change)
+refactor: (refactoring production code, eg. renaming a variable)
+test: (adding missing tests, refactoring tests; no production code change)
+chore: (updating grunt tasks etc; no production code change)
+
+
+Mais exemplos:
+
+feat: (novo recurso para o usuário, não um novo recurso para script de compilação)
+fix: (correção de bug para o usuário, não uma correção para um script de compilação)
+docs: (alterações na documentação)
+style: (formatação, falta de ponto e vírgula, etc; sem alteração do código de produção)
+refactor: (refatorando o código de produção, por exemplo, renomeando uma variável)
+test: (adicionando testes ausentes, testes de refatoração; nenhuma alteração no código de produção)
+chore: (atualizando tarefas grunt etc; sem alteração de código de produção)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,175 @@
+---------------------------------
+TESTANDO O CONHECIMENTO:
+---------------------------------
+
+-Qual é o propósito da declaração DOCTYPE?
+	DOCTYPE declara a versão html do documento. A mais recente é html5 que é declara da seguinte maneira: <!DOCTYPE html>
+
+
+
+-O que é o elemento HTML?
+	O elemento HTML é justamente a estrutura principal do documento html. Dentro dela seguem todos os outros elementos que fazem a parte da estrutura do documento html. Exemplo: head, title, link, body e etc. 
+		Exemplo:
+			<html>
+				<head></head>
+				<body></body>
+			</html>
+
+
+
+-Qual é o propósito do elemento head?
+	O elemento HEAD é o local onde fica todas as meta tags, links externos e grande parte das informações não visiveis para o usuário.  <head> </head>
+
+
+
+-Qual é o propósito do elemento body?
+	O elemento BODY é o local onde fica todas as tags que dão estrutura visivel para a Webpage: Parágrafo, imagens, cards, listas, botões e grande parte das informações visiveis para o usuário.  <body> </body>
+
+
+
+---------------------------------
+TESTANDO O CONHECIMENTO:
+---------------------------------
+
+-Como você cria um parágrafo no HTML?
+	Usando a tag p. Exemplo: <p>Aqui terá um parágrafo.</p>
+
+
+
+-Como você cria um cabeçalho no HTML? Quantos diferentes níveis de cabeçalho há e quais são as diferenças entre eles?
+	Usando a tag h. Essa tag vai de h1 até h6, quanto maior o número, menor será o tamanho da letra/font.
+		 Exemplo: <h1>Aqui terá um parágrafo.</h1>
+			<h2>Aqui terá um parágrafo.</h2>
+			<h3>Aqui terá um parágrafo.</h3>
+
+
+
+-Qual elemento você deve usar para fazer o texto Bold e destacar como Importante?
+	Usando o elemento strong. Exemplo: <strong>Aqui terá texto em Bold e com destaque de importância.</strong>
+
+
+
+-Qual elemento você deve usar para fazer o texto Italic e dar ênfase?
+	Usando o elemento em. Exemplo: <em>Aqui terá texto em Bold e com destaque de importância.</em>
+
+
+
+-Que relação um elemento tem com algum elemento dentro dele?
+	Essa relação é chamada de Pai e Filho. O elemento dentro é chamdo de Filho e normalmente tem seu início separado por 2 espaços dentro do elemento Pai. Isso serve para manter uma organização e facilitar o trabalho em equipe, além de outros fatores envolvendo JS.
+		Exemplo: 
+			<body>
+			  <p>Aqui terá um parágrafo.</p>
+			</body>
+
+
+
+-Que relação dois elemento tem se eles são do mesmo nível de aninhamento?
+	Essa relação é chamada de Irmãos. Os elementos ficam no mesmo nível. Isso serve para manter uma organização e facilitar o trabalho em equipe, além de outros fatores envolvendo JS.
+		Exemplo: 
+			<body>
+			  <p>Aqui terá um parágrafo.</p>
+			  <p>Aqui terá um parágrafo.</p>
+			</body>
+
+
+
+-Como você cria um comentário HTML?
+	Usando o <!--   -->. 
+		Exemplo: <!--Aqui tem um texto comentado para organizar e explicar melhor o objetivo dessa atividade.-->
+
+
+
+---------------------------------
+TESTANDO O CONHECIMENTO:
+---------------------------------
+
+-Qual tag HTML é usada para criar uma lista não ordenada?
+	A tag <ul>. Exemplo: 
+			<ul> 
+				<li>Item</li>
+				<li>Item</li>
+				<li>Item</li>
+			</ul>
+
+
+
+-Qual tag HTML é usada para criar uma lista ordenada?
+	A tag <ol>. Exemplo: 
+			<ol> 
+				<li>Item</li>
+				<li>Item</li>
+				<li>Item</li>
+			</ol>
+
+
+
+-Qual tag HTML é usada para criar itens de lista ordenada/não ordenada?
+	A tag <li>. 
+
+
+
+---------------------------------
+TESTANDO O CONHECIMENTO:
+---------------------------------
+
+-Qual elemento é usado para criar um link?
+	O elemento <a>. Exemplo: <a>Texto</a>
+
+
+
+-O que é um atributo? Qual atributo diz para onde o link vai?
+	Um atributo HTML é um tipo de propriedade que dar mais função para a tag. Ele é sempre adicionado na abertura da tag. O atributo href="" é responsável pelo caminho do link. Exemplo: <a href="">Texto</a>
+
+
+
+-Qual é a diferença entre um link absoluto e um link relativo?
+	Link absoluto é o tipo de link que leva para uma página externa (outro site) e que vem com o protocolo e domínio. 
+	Link relativo é o tipo de link que leva para uma pagina no mesmo local/máquina local do arquivo. Ou seja, leva para uma mesma página do site atual, assim não precisando de um domínio no link. 
+
+
+
+-Qual elemento é usado para mostrar uma imagem?
+	O elemento <img>. Exemplo: <img src="caminho-da-imagem.jpg">	
+
+
+
+-Quais são os dois atributos que uma imagem sempre precisa ter?
+	Os atributos src="" e alt="". Exemplo: <img src="caminho-da-imagem.jpg" alt="descrição da imagem">		   
+
+
+
+-Como você acessa um diretório parente/pai em um caminho de arquivo?
+	Usando ../ Exemplo: src="../Images/nome-da-image.jpg"	
+
+
+
+-Quais são os 4 principais formatos de imagens que você pode usar para imagens na web? 
+	Os 4 formatos são: jpg/jpeg, png, gif, svg. 	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,124 @@
+---------------------------------
+TESTANDO O CONHECIMENTO:
+---------------------------------
+-O que é um comando Shell e por que eu deveria usar ele? 
+	Shell é um tipo de programa onde o usuário pode executar ações a partir das linhas de comando.
+
+-Explique como  o Shell relaciona o teclado, tela, sistema operacional e programas do usuário.
+	O shell segue com linhas de comandos a partir do teclado, onde essas linhas são visualizadas na tela (normalmente uma tela escura com fontes em cores constrastantes). A partir dessa visualização é possível acessar locais do sistema operacional e executar programas do usuários e etc.
+
+-Explique quando e por que a interface de linhas de comando deveria ser usada no lugar da interface gráfica.
+	Quando for necessário uma aplicação em escala maior e que seja necessário uma lógica ou automação para ser executada. Porque a partir dos comandos de linhas é possível acessar e executar de maneira mais rápida e eficiente determinadas ações, principalmente as mais repetitivas.
+
+-Como posso me movimentar no meu computador?
+	A partir das linhas de comando você pode usar o comando "cd nome do diretório". Exemplo: cd Desktop
+
+-Como posso ver quais arquivos e diretórios eu tenho?
+	A partir do comando "ls".
+
+-Explique as semelhanças e diferenças entre um arquivo e um diretório.
+	Tanto arquivos e diretórios podem ser acessados e visualizados pelo Shell/Terminal. Ambos têm objetivos/finalidades e "ocupam/fazem parte do" espaço dentro do sistema. A grande diferença é que um diretório/pasta serve para organizar/separar os arquivos em seus devido lugares.
+
+-Traduza um caminho absoluto em um caminho relativo e vice-versa.
+	Caminho absoluto é um caminho que pode ser acessado independente da localização do usuário. /home/user2/documents 
+	Caminho relativo é um caminho que o acesso depende da locação do usuário. /jose/fotos-do-casamento
+
+-Construa caminhos absolutos e relativos que identificam arquivos e diretórios específicos.
+	Absoluto: ls -F ~/Downloads
+	Relativo: ls -F /home/junior/Downloads
+	
+
+-Use opções e argumentos para alterar o comportamento de um comando shell.
+	ls (mostra os arquivos e diretórios na pasta)
+	ls -F (mostra os arquivos e diretórios na pasta e sua raíz /)
+	ls -Fl (mostra os arquivos e diretórios na pasta e sua raíz / e em formato de lista)
+	ls -Flr (mostra os arquivos e diretórios na pasta e sua raíz / e em formato de lista, onde o ultimo item usado/modificado fica no final (o normal é ser o primeiro))
+
+	Final: ls -Flr Desktop
+
+-Demonstre o uso do preenchimento de tabulação e explique suas vantagens.
+	ls -Flr Des(TAB)  --> ls -Flr Desktop
+	A vantagem é que agiliza o processo de trabalho/acesso. Te fazendo ganhar mais tempo e produtividade. 
+
+-Como eu posso criar, copiar, e deletar arquivos e diretórios?
+	Para criar um arquivo o comando é touch, já para criar um diretório o comando é mkdir.	
+	Para copiar é só usar o comando cp.
+	Para deletar é só usar o comando rm.
+
+-Como eu posso editar arquivos?
+	Se for texto pode usar qualquer editor de texto. Exemplo do nano, notepad e etc.
+
+-Como eu posso combinar comandos existentes para fazer coisas novas?
+	Usando pipe "|" entre os comandos. Exemplo: wc -l *.pdb | sort -n | head -n 1
+
+
+
+
+
+
+---------------------------------
+TESTANDO O CONHECIMENTO II:
+---------------------------------
+-O que é Linha de Comando?
+	Linha de Comando é uma maneira de acessar/trabalhar usando o terminal de um sistema operacional. Assim conseguir navegar de maneira mais fácil e rápida pelo sistema do seu computador. 
+
+-Como você abre a linha de comando no seu computador? 
+	No caso do Linux é possível com o atalho CTRL+ALT+T. Também é possível acessar o painel principal e procurando por Terminal.
+
+-Como você navega para uma diretório específico?
+	-digitando o caminho dele a partir do comando "cd".
+
+-Onde cd vai em sua própria navegação?
+	Só o comando cd leva para o diretório principal do usuário. No meu caso: /home/junior
+
+-Onde cd .. vai em sua própria navegação?
+	O comando cd .. leva devolta para o diretório anterior.
+
+-Como você exibe o nome do diretório que você está atualmente dentro?
+	Usando o comando pwd
+
+-Como você exibe o conteúdo do diretório que você está atualmente dentro?
+	Usando o comando ls
+
+-Como você cria um novo diretório?
+	Usando o comando mkdir
+
+-Como você cria um novo arquivo?
+	Usando o comando touch
+
+-Como você destroi um diretório ou arquivo?
+	Usando o comando rm -r
+
+-Como você renomea um diretório ou arquivo?
+	Usando o comando mv (serve para mover e renomear)
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------
+PESQUISA: 
+---------------------------------
+
+
+ 
+
+	
+	
+
+
+
+
+
+
+

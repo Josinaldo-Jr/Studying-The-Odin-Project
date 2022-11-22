@@ -1,0 +1,36 @@
+---------------------------------
+TESTANDO O CONHECIMENTO:
+---------------------------------
+-Windows é um sistema operacional ou uma aplicação?
+	Windows é um sistema operacional (SO) / Operating System (OS)
+
+
+-Qual é a diferença entre software Open Source e Closed Source?
+	Software Closed Source normalmente pertece a uma empresa/grupo com finalidades lucrativas. Seu código não é editável e dificilmente será acessível para os usuário/desenvolvedores. Alguns softwares podem ser grátis com serviços/suportes pagos. Uma das vantagens desse tipo de software é o suporte ao cliente, onde normalmente são focados e acessíveis. 		
+	Já Open Source normalmente pertece a um grupo/empresa sem finalidades lucrativas, ou que buscar lucrar a parti de patrocinadores ou serviços do tipo. Seu código é editável e acessível para os usuário/desenvolvedores. Assim ajudando o software a melhorar a partir dos seus usuários/desenvolvedores. Uma desvantagem seria no suporte ao cliente, pois exige que o mesmo busque soluções e venha a interagir com outros usuários para resolver o problema. 
+
+
+-Quais são alguns casos de uso da Screenshot/Captura de tela?
+	Quando quiser enviar uma imagem de parte do código (para suporte e etc).
+	Quando for enviar uma imagem como exemplo do código/aplicação.
+
+
+-Dê um exemplo de uma senha fraca e uma senha forte?
+	Senha fraca pode ser data de aniversário, nome da rua, seu nome, nome de algum familiar, uma sequência comum (123456) e etc.
+	Senha forte pode ser uma sequência que não tenha um sentindo diretamente relacionada a você. Como o uso de números somados a caracteres normais (letras) e caracteres especiais (simbolos).
+
+
+---------------------------------
+PESQUISA: 
+---------------------------------
+-O que são recursos de acessibilidade?
+	Acessibilidade é algo de grande peso e importância dentro de vários projetos/aplicações e serviços. É facilitar que esse projeto seja acessível para pessoas que possuem alguma limitação (física, mental, geografica,  social e etc). 
+	Existem muitas ferramentas dentro do próprio Sistema operacional que ajudam na questão de acessibilidade, assim como existem fora do sistema operacional. Exemplo: aplicativos/site/extensões/instituições que podem ajudar também. 
+	
+
+
+
+
+
+
+

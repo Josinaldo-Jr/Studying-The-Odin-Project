@@ -1,0 +1,48 @@
+---------------------------------
+TESTANDO O CONHECIMENTO:
+---------------------------------
+
+-Quais são as principais diferenças entre CSS externo, interno e em linha?
+	
+		CSS Externo é feito a partir de uma arquivo css separado do arquivo html. A partir de um link é possível estilizar o html de maneira separada e organizada. 
+
+		CSS Interno é feito a partir da tag/elemento style dentro do <head> no arquivo html. Assim é possível estilizar o html de maneira em um só arquivo.
+
+		CSS em Linha é feito a partir do atributo  style dentro da <tag> escolhida no arquivo html. Assim é possível estilizar um só elemento html dentro do arquivo. 
+
+
+-Qual é a sintaxe para seletores Class e ID?
+
+		Class:  
+				<div class="elemento"> </div>
+
+				.elemento {background: red;}
+
+		ID:  
+				<div id="elemento"> </div>
+
+				#elemento {background: red;}
+
+
+-Como você pode aplicar uma única regra para dois seletores diferenças?	
+
+		p, div {background: black;}
+
+
+-Dado um elemento que tem um ID de "title" e uma Class de "primary", como você pode usar ambos atributos para uma única regra?	
+
+		#title.primary {background: gray;}
+
+
+-O que faz uma combinação descendente?	
+
+		Permite estilizar apenas o elemento quer for filho/descendente do elemento especificado. Exemplo: 
+					<div> <p> </p> </div>
+
+					div p {color: blue;}
+
+
+-Entre uma regra que usa um seletor Class e uma regra que usa 3 tipos de seletores, qual regra tem maior especificidade?	
+
+		O seletor com Class tem maior especificidade.						
+			

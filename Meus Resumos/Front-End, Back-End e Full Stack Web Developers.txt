@@ -1,0 +1,21 @@
+*Resumo Front-End Developer*
+
+-Cuida da parte visual do website. Podendo trabalhar em conjuto com a equipe de design e UX/UI design. Suas principais linguagens são: HTML, CSS e Javascript. 
+Podemos imaginar que o Front-End Developer é responsável pelo "design interior de uma casa que foi contruida por um Back-End Developer. O gosto e estilo da decoração será dedicada pelo proprietário."  
+
+
+*Resumo Back-End Developer*
+
+-Responsável pela parte do servidor, aplicação e base de dados de um website. Construindo e cuidando da tecnologia que alimentam esses  componentes, que juntos, permitem a existência em primeiro lugar da parte do usuário no website.
+
+Para fazer o servidor, aplicação e base de dados se comunicarem umas com as outras, o Back-End Developer usa linguagem de servidor como: PHP, Ruby, Python, Java e .Net para construir uma aplicação, e ferramentas como: MySQL, Oracle, e SQL Server para encontrar, salvar, ou mudar dados e entregar de volta para o usuário do front-end.
+
+
+
+*Resumo Full Stack Developer*
+
+-Tem o dominio tanto da parte do Front-End, como também do Back-end. 
+É um caminho difícil, mas que aumentam suas oportunidades no mercado de trabalho. Suas habilidades atuais e Ferramentas necessárias são: HTML/CSS + Amazon + iOS + Android + MongoDB + Scala + Machine Learning
+
+
+OBS: Independente do caminho a seguir. É muito importante evoluir as soft Skills como: Atenção aos detalhes, habilidade para aprender rápido, habilidade para resolver problemas eficientemente, treinamento de negócios e forte comunicação.

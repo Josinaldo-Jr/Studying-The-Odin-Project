@@ -1,0 +1,26 @@
+---------------------------------
+PESQUISA: 
+---------------------------------
+	SSH (Secure Shell) é um protocolo de rede criptográfico onde é usado chaves (keys) a parti de uma criptográfia Simétrica e Assimétrira.
+
+	A criptográfia Simétricas (é um método menos seguro) onde é usada uma chave privada para criptografar e para decodificar.
+		Exemplo Simétrico: 
+				João e Maria tem uma chave privada.
+				João manda um arquivo para Maria, caso alguém pegue o arquivo só vai conseguir abrir com a chave do João ou da Maria.
+
+	A criptográfia Assimétrica (é um método MAIS seguro) onde é usada dois pares de chaves publicas e dois pares de chaves privadas.
+		Exemplo Assimétrico: 
+				João e Maria tem um par de chaves privadas e um par de chaves públicas.
+				João manda uma chave pública para Maria. 
+				Essa chave pode ser usada por qualquer pessoa para criptográfar, mas só quem pode decodificar é João com sua chave Privada. O mesmo vale para Maria.
+ 
+
+	
+	
+
+
+
+
+
+
+

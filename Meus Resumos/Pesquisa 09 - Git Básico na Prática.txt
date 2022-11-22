@@ -1,0 +1,63 @@
+---------------------------------
+TESTANDO O CONHECIMENTO:
+---------------------------------
+
+-Como você cria um novo Repositório no GitHub?
+	Para criar um novo repositório é preciso logar na conta, clicar na seta ao lado da sua foto de perfil (canto superior direito). Depois escolha a opção New Repository.
+
+
+
+-Como você copia um Repositório do GitHub para sua máquina local?
+	Após criar um repositório você vai clicar em CODE e copiar a SSH do repositório, abrir o terminal no seu pc e usa o comando "git clone CHAVE SSH". 
+		Exemplo: git clone git@github.com:USER-NAME/REPOSITORY-NAME.git
+
+
+
+-Qual é o nome padrão da sua conexão remota?
+	Usando o comando "git remote -v" é possível saber o nome. No meu caso o nome padrão da conexão é "origin". 
+		Exemplo: git remote -v
+			origin	git@github.com:Josinaldo-Jr/git_test.git
+
+
+
+-Explique o que é origin no git push origin main:
+	origin é no nome padrão da conexão. Esse nome pode ser trocado/alterado/personalizado. No caso do "git (programa) push (ação) origin (nome da conexão) main
+
+
+
+-Explique o que é main no git push origin main:
+	main é nome dua sua bransh principal. No caso do "git (programa) push (ação) origin (nome da conexão) main (nome da bransh principal).
+
+
+
+-Explique o sistema de dois estágios que o Git usa para salvar arquivos:
+	O primeiro é seria staging area. Local onde os arquivos ficam aguardando um "commit". Já o "commit" seria o segundo estágio, pois funciona como uma confirmação.
+		Exemplo em comandos:
+			git add NOME DO ARQUIVO (enviar os arquivos alterados para staging area)
+			git status (checar os arquivos)
+			git commit (confirmar/cometer os arquivos da staging area)
+
+
+
+-Como você checa o status do seu repositório atual?
+	Usando o comando "git status".
+
+
+
+-Como você adiciona arquivos para a staging area no Git?
+	Usando o comando "git add NOME DO ARQUIVO". 
+
+
+
+-Como você commit/confirma/comita os arquivos na staging area adiciona uma mensagem de descrição?
+	Usando o comando: git commit -m "descrição dentro das aspas". 
+
+
+
+-Como você push/empurra suas mudanças para seu repositório no Github?
+	Usando o comando "git push" ou "git push origin main".
+
+
+
+-Como você olha o histórico dos seus commits anteriores?
+	Usando o comando "git log".

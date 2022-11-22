@@ -1,0 +1,45 @@
+---------------------------------
+TESTANDO O CONHECIMENTO:
+---------------------------------
+
+-De dentro para fora, qual é a ordem das propriedades do box-model?
+	
+		padding - border - margin.
+
+
+
+-O que faz a propriedade CSS "box-sizing"?
+	
+		Deixa a aparência do objeto (width, padding e border) ajustada de acordo com o valor da width.
+
+			Exemplo: box1 {width:100px; padding:10px; border:1px solid;} 
+				 Resultado: box1 terá o resultado visual de um objeto de largura de 122px (100+10x2+1x2)
+
+			Exemplo: box2 {box-sizing:box-border; padding:10px; border:1px solid; width:122px;} 
+				 Resultado: box2 terá o mesmo resultado visual da box1 em largura/padding/border. 
+
+		
+
+-Qual é a diferença entre o standard e alternative box model?
+	
+		standard é o modo padrão onde são somadas as propriedades width, padding e border são os valores determinante para o resultado visual da box.
+
+		alternative é onde o valor da width (a partir do box-sizing) é determinante para o resultado visual da box.
+
+
+		
+-Você usaria margin ou padding para criar mais espaço entre dois elementos?
+	
+		margin. Essa propriedade trabalha com o distanciamento externo.
+
+
+
+-Você usaria margin ou padding para criar mais espaço entre conteúdos de um elemento e sua borda?
+	
+		padding. Essa propriedade trabalha com o distanciamento interno.
+
+
+
+-Você usaria margin ou padding para criar mais espaço entre conteúdos de um elemento e sua borda?
+	
+		margin. 

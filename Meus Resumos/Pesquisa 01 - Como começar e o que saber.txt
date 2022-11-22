@@ -1,0 +1,51 @@
+---------------------------------
+PESQUISA:
+---------------------------------
+Como eu posso me tornar realmente um bom web Developer? O que faz um ótimo web developer? O que faz um bom web developer?
+
+
+-Aprender a base e conceitos simples relacionados a Internet como http, www, dns, hospedagem e etc. Depois seguir com  os conceitos base de programação (lógica, estrutura de dados, orientação a objetos, programação funciona, etc) somados a HTML/CSS/Javascript. Também é importante trabalhar com sistema de controle de versão (git, github, etc) e por ultimo estudar os frameworks (front/back).
+
+-É importante manter o foco e objeto, mesmo sabendo que o caminho não será fácil. Sendo assim é muito recomendado desenvolver as "soft skills", como: . Evitar "atalhos" e anunciados fantasiosos. colocar em mente que não é preciso decorar ou saber de cabeça toda a estrutura, o importante é entender a lógica e funcionalidade de cada coisa. 
+
+-Outro ponto importante é sempre tentar resolver problemas diferentes dos que foram apresentados no "curso". Além de tentar criar novas versões com o novo conhecimento adquirido. E depois disso tudo, buscar fazer aplicação em mercado, seja em projeto pessoal, projeto familiar, projeto volutário ou freelance. 
+
+-Por ultimo: é importante gostar e saber resolver problemas, isso vem na frente até mesmo do ato de "codar/programar." Normalmente isso vem junto da busca e leitura de erros/códigos, somado a necessidade de entender o objetivo do projeto/cliente. 
+
+Dica: Além do próprio site "The Odin Project" é interessante analisar o roadmap para Front-end e Back-end (https://roadmap.sh/frontend ... https://roadmap.sh/backend).
+--------------------------------------------------
+
+Coisas que eu desejaria que alguém me contasse quando eu estava aprendendo como programar:
+
+-Tente quebrar os problemas/tarefas/projetos em pequenas partes para resolver.
+-Não importa se há medo ou se você não se sente pronto, tente, mesmo nos piores resultados você vai ganhar experiência.
+-Ao entrar conflito sobre conceitos/ideias/opiniões, o melhor é você tentar colocar em prática para tirar o melhor resultado. 
+-Você pode aprender qualquer coisa, coloque isso na sua mente. O que vai variar é o tempo para aprender, lembrando que cada um tem o seu tempo.
+-Mostre o seu progresso. De maneira cuidadosa ou divididas em partes, mas tente mostrar sua evolução.
+-Cuidado com sua auto avaliação: Grandeza é perigoso, se diminuir também é perigoso. O melhor é sempre buscar ouvir os outros e continuar tentando sempre melhorar/praticar... 
+--------------------------------------------------
+
+Não acredite em ninguém que diz que progração é fácil:
+
+-Programação não é fácil. Exige muito esforço e dedicação. Normalmente uma pessoa que diz isso é porque já passou por toda adaptação e curva de aprendizado ou porque não tem noção da área.
+-É muito importante trabalhar a resiliência, foco e disciplina.
+
+
+
+
+
+Prática da programação deliberada:
+
+-É uma maneira de estudar um determinado assunto (de preferência dividir o assunto em partes menores) mantendo foco e dedicação para concluir/dominar aquele tema sem consultas ou ajudas externas (sair da zona de conforto). Vale lembrar que só será valido fazer a consulta em situação que não tem mais avanço. 
+-Tem como objetivo melhorar pontos do qual você não é bom ou não tem conhecimento suficiente naquele assunto. É algo que deve ser levado a sério, é dificil e frustante porque muitas vezes é demorado para notar o resultado.
+-Um exemplo da área: Pegar o projeto de um site, dividir ele em partes e praticar o desenvolvimento dessas parte até ter maestria no assunto.
+
+
+
+
+--------------------------------------------------
+https://roadmap.sh/
+
+
+
+

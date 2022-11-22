@@ -1,0 +1,70 @@
+---------------------------------
+PESQUISA:
+---------------------------------
+-Como se motivar e agir:
+
+Tenha um objetivo forte e claro (gosto da área e busco trazer uma boa qualidade de vida para minha família e eu). 
+
+É importante que o objetivo seja realista, ter noção do quanto difícil e longo pode ser o caminho do aprendizado. Dividir em pequenas metas ajuda muito.
+
+Seja organizado! Isso vale para toda a vida. Tanto em horários, material de estudo e etc.
+
+Seja consistente! É importante manter o ritmo de estudo diariamente. Nem que seja um pouco (5 min ou algo do tipo). Vale mais praticar 1h por dia da semana do que 5h em um dia de toda a semana. 
+
+Evite se comparar com outras pessoas!
+Se possível, fuja de grupos ou algo do tipo, mas o mais importante é você trabalhar sua mente.
+
+Usar técnicas de produtividade pode ajudar, mas não é uma regra. É importante avaliar a situação e adaptar a ferramente a sua realidade. Veja como um suporte (uso o pomodoro de maneira adaptada para minhas metas). 
+
+Divirta-se no caminho! O estudo será muito mais leve e divertido se for dentro da área que você gosta (gosto de programação e de resolver problemas/desafios). 
+
+Outra dica para se motivar é fazer em paralelo com os estudos/trabalho um projeto que você goste e te desafie (game, rpg, pokémon e etc). 
+
+Identificar o problema causador da desmotivação é de extrema importante para achar uma solução e se motivar!
+
+Por último, mas não menos importante... valorize as suas conquistas! Comemore, mostre para as pessoas (mozinha) e veja o caminho que você já pecorreu! 
+
+
+--------------------------
+-Aprendendo a Codificar - Quando escurece:
+
+Perceba que todos experimentam resistência (barreira/problemas/dificuldades)!!! Não pense que aquela pessoa que chegou ao "topo" não passou por nenhum problema. Na verdade é muito importante trilhar o seu próprio caminho no seu próprio tempo. Nada de se comparar com os outros! Se você sentir a resitência, então é sinal que você está no caminho certo. 
+
+Cada dia conta!!! É muito importante manter o ritmo e tentar estudar/praticar um pouco por dia. Vale mais estudar 1h por dia do que 5h em dia 1 dia da semana. Cada dia que você praticar/estudar é um dia que você ganhou!
+
+Vá com tudo!!! Coloque seu objetivo em foco e use qualquer tempo que você tiver para estudar/praticar. Cuidado com a velocidade, se for para menos é possível que o "progresso lento" te desanime. É importante manter o equilíbrio e não exagerar também, mas jamais deixe de estudar/praticar (só em casos emergências). 
+
+Você é inteligente o suficiente!!! A inteligência é algo que pode ser treinada e praticada/estimulada/desenvolvida. Não desista e continu estudando/praticando. A formula é: Função aprender . Variável tempo. 
+Você AINDA não aprendeu algo, mas se quiser e se esforçar vai aprender!
+
+Não pulverize seu esforço ao redor!!! Tenha foco no seu objetivo e evite distrações por longo prazo (jogos, outros assuntos e linguagens). Eu recomendado é experimentar certas variações da área (outras linguagens e etc), mas depois voltar para o objetivo principal. Particularmente prefiro terminar um tema/objetivo para depois ir para outro...
+
+Consistência sobre a quantidade!!! É importante manter o foco nas "metas" diárias. Mesmo que seja um dia muito pesado ou ruim, tente fazer pelo menos o mínimo possível. Mas não faça o mínimo todos os dias, se não vai virar um mau costume!
+
+Não se iluda acreditando que você presia voltar para universidade ou para um bootcamp pago para ser um desenvolvedor. Não é verdade!!! Se for possível fazer uma faculdade, então faça. Mas não é obrigatório. Boa parte dos desenvolvedores não tem faculdade ou curso top pago.
+
+Encontre pessoas que pensam como você!!! É muito importante que em algum momento você entre em comunidades para conhecer/ajudar/pedir ajuda a outras pessoas. Se possível, participe de eventos, chame alguém para estudar com você ou compartilhe o seu conhecimento!
+
+Leia as histórias de origem de codificação de outras pessoas!!! Muitas vezes saber da trilha de outros desenvolvedores pode ajudar como uma inspiração. É algo mais "humano" saber que outros passaram por isso e que não é um caminho impossível. O legal é que muitos compartilham dicas e técnicas que usaram para trilhar todo esse caminho.
+
+
+
+--------------------------
+-Prática de digitação:
+
+https://www.keybr.com/
+https://monkeytype.com/
+
+
+
+--------------------------
+-Por que procastinadores procastinam:
+
+Para evitar a procastinação é importante identificar o que mais tira seu foco e deixar esse "item" longe. O tal "item" pode servir de recompensa após terminar alguns objetivos. Dividir o objetivo em metas menores ajuda muito! 
+
+Outra dica é fazer planejamento! Seja semanal ou diário, mas faça um planejamento. Porém, para manter esse planejamento é de extrema importância ter DISCIPLINA! A disciplina é a chave para continuar seguindo!
+
+Não deixe o medo de não estar pronto te parar. Novamente é importante não se comparar com os outros e usar o seu conhecimento/ferramentas atuais para produzir o possível. Só o fato de tentar já vai te ajudar a crescer! 
+
+Uma regra interessante é a regra dos 70%. Se tiver pelo menos 70% de certeza de algo, então faça! O medo é um aliado da procrastianção, já a ação é o pior inimigo da procrastinação!
+

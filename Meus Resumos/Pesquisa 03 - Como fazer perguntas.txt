@@ -1,0 +1,142 @@
+---------------------------------
+PESQUISA:
+---------------------------------
+-Como ser ótimo em fazer perguntas de codificação:
+
+Primeiro é importante entender que saber fazer boas perguntas vai te ajudar não só na vida como também no aprendizado.
+
+1-Compreenda o código da melhor maneira possível!!! 
+	Estude/leia cada linha.	
+	Faça busca no google antes.
+	Tente filtrar as possibilidades.
+
+
+2-Descreva claramente o problema!!!
+	Explique o contexto.
+	Se for um vídeo, forneça a url, tempo e número 	da aula.
+	Explique os passos que você seguiu até chegar no 	erro.
+	Explique o que você ver.
+	Explique o que você esperava acontecer.
+	Forneça print/vídeo da situação.
+	Não deixe de informa o tipo de erro que aparece. 
+
+
+3-Forneça o código que ilustra o problema!!!
+	Tente separar e enviar justamente a parte do 	erro.
+	Tente compartilhar a parte do código com erro 	como uma cópia. 
+
+
+4-Verifique se o código que você está compartilhando pode produzier o problema!!!
+	Teste o código e tenha certeza que comparilhou 	justamente a parte que contém o erro.
+
+
+5-Formate seu código de forma consistente!!!
+	Deixe seu código fácil/organizado para que você e outras pessoas possam ler. 
+
+
+6-Verifique se há erros de digitação!!!
+	Confira sempre se há erro de digitação. Ninguém vai querer procurar por erro de digitação, essa é sua função. 
+	Tente refazer o código antes da parte que deu erro.
+	Tente usar o código original para conferir se o erro é na digitação ou no sistema.
+
+
+7-Explique o que você fez para soluionar o problema!!!
+	Antes de fazer a pergunta, pense em como poderia resolver e depois faça o teste. Existe a chance de você resolver sozinho durante esse processo. 
+
+
+8-Explique o que você acha que pode ser o problema!!!
+	Com base nas suas tentativas/testes, forneça uma ideia que você acredita ser o problema. 
+
+
+9-Revise sua pergunta!!!
+	Revise mais de uma vez a sua pergunta. 
+	Analise se a pergunta ficou clara e corrija/edite todos os erros de digitação.
+
+
+10-Envie atualizações e lembre-se que esta não será sua última pergunta!!!
+	Caso venha a resolver o problema antes que alguém ofereça a resposta/solução, avise para que outros não percam tempo procurando uma resposta.
+	Antes de aplicar a sugestão de suporte, analise bem e tente executar da melhor maneira possível.
+	Sempre agradeça aos que tentaram te ajudar, pois eles não tinham obrigação de tentar te ajudar.
+---------------------------------
+---------------------------------
+
+-XY Problem:
+	O problema XY é basicamente a questão de você procurar/perguntar por uma outra solução (y) para resolver um outro problema (x). Fazendo você e outros perderem tempo. Normalmente você faz isso porque acredita que (y) vai resolver seus problemas, mas seria muito melhor você perguntar/procurar resolver diretamente (x).
+
+	Exemplo do site:
+	-O usuário quer fazer X
+	-O usuário não sabe como fazer X, mas ele acha que pode encontrar uma solução se ele conseguir fazer Y
+	-O usuário não sabe como fazer Y
+	-O usuário pede ajuda com Y
+	-Os outros tentam ajudar o usuário com Y, mas eles estão confusos porque Y parece ser um problema estranho para resolver
+	-Depois de muita interação e tempo perdido, finalmente ficou claro que o usuário realmente queria ajuda com X, e que Y não seria a solução para X.
+---------------------------------
+---------------------------------
+
+-Como faço uma boa pergunta?
+	-Pesquise, pesquise!!!
+	-Escreva um título que de certa forma já resuma o seu problema!!!
+		Tente destacar os principais pontos, cuidado com a ortografia e gramática. Caso tenha problemas em fazer o resumo, então deixo o título por ultimo.
+
+	Exemplo: 
+		Ruim-Erro na Tag (HTML)
+		Bom-Problema com a Tag <img> ao colocar uma imagem.
+
+	-Apresente antes o problema antes de postar qualquer código. Tente falar quando ele começou, o que você gostaria de fazer e o que já tentou fazer para resolver.
+
+	-Ajude outras pessoas a reproduzir o problema!!!
+		Coloque apenas o código suficiente para as pessoas testarem o erro. 
+		Não publique imagens de código, dados, mensagens de err, etc.
+
+	-Releia antes de postar!!!
+		Ninguém é obrigado a procurar seus erros de digitação. Então o mínimo é revisar, pensar, pesquisar antes de postar.
+
+	-Poste a pergunta e responda aos comentários!!!
+		Fique atento aos comentários e sempre forneça feedback sobre os teste.
+
+	-Procure ajuda pedindo ajuda!!!
+		Não é da noite para o dia que você vai ficar bom em fazer perguntas, isso exige prática. Então pergunte!
+---------------------------------
+---------------------------------
+
+-Vampiros de Ajuda:
+	Vampiros de ajuda são o tipo de pessoas que vão puxar suas energias/alma/emoções por via de atenção/perguntas desnecessárias e etc. Deixando você desanimado, desmostivado e sem energia.
+	-Idenfificando Vampiros de Ajuda:
+		Ele faz a mesma pergunta que muitos outros fazem.
+		Ele não tem coragem/vontade de pesquisar antes de perguntar para os outros.
+		Ele não faz perguntas que façam sentido ou que sejam específicas.
+		Ele acha que ajudá-lo é a coisa mais importante que há.
+		Ele que provas sobre coisas que são obvias.
+		Ele quer que outras pessoas pensem por ele.
+		Ele não liga para a resposta, ele quer que trabalhem por ele.
+		Ele gosta de fazer perguntas "impossíveis". Exemplo: Como eu monto um chat ou o forum de um site?
+
+	Se você é um vampiro de ajuda...
+		Continue tentando solucionar o problema, pelo menos alguams vezes antes de perguntar e continue depois de perguntar também. Use o google ao seu favor, assim como fóruns/grupos/lista de discussões!
+		A documentação é um bom caminho. De início pode parecer difícil, mas conforme você avança no conhecimento a documentação vai ficando mais fácil de entender.
+		Pense bem e tente fazer uma boa perguntar (leia os tópicos anteriores). Também vale acrescentar informações como versão do software/sistema operacional/objetivo antes do erro/mensagem de erro/quando surgiu/o que esperava que acontecesse.
+
+
+
+
+---------------------------------
+TESTANDO O CONHECIMENTO:
+---------------------------------
+-Cite pelo menos uma coisa que sua pergunta deve sempre ter:
+	Descrição detalhada do problema, meu objetivo, como eu esperava que funcionasse, um bom título com um resumo do meu problema e etc.
+
+
+-Descreva "XY Problem":
+	O problema XY é quando o você quer fazer X, mas não sabe. Então acredita que fazendo Y, você será capaz de fazer X, porém você não saber fazer Y também. Então resolve pedir ajuda para aprender a fazer Y, depois de muito desgaste e perda de tempo, fica claro que Y não é sua solução. O correto seria perguntar/pesquisar por X.
+	Isso seria resolvido com uma "boa pergunta". 
+
+
+-Descreva três atributos do "Help Vampire":
+	Vampiros de ajuda normalmente fazer perguntas comuns e preguiçosas. Eles são resistentes para pesquisar no google e acham que as suas duvidas são a coisa mais importante que há. 
+	Normalmente os vampiros de ajuda acabam com a paciência e ânimo de quem o tenta ajudar.
+
+		
+
+
+
+	

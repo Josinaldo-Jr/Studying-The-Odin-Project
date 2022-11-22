@@ -1,0 +1,56 @@
+---------------------------------
+TESTANDO O CONHECIMENTO:
+---------------------------------
+
+-O que HTML e CSS significam?
+	HTML significa Hipertext Markup Language (Linguagem de Mrcação de Hipertexto). HTML é usada para estruturar o site/webpage.
+
+	CSS significa Cascading Style Sheets (Folhas de Estilo em Cascata). CSS é usada para estilizar o site/webpage.
+
+
+
+-Entre HTML e CSS, qual você poderia usar para colocar parágrafo de texto em uma página da web (webpage)?
+	HTML é a linguagem ideal para colocar um parágrafo de texto e qualquer elemento que faça parte da estrutura base visual da webpage. 
+
+
+
+-Entre HTML e CSS, qual você poderia usar para mudar a fonte e a cor de fundo de um botão?
+	CSS é a linguagem ideal para fazer esse tipo de mudança. Pois sua função é estilizar todos os elementos visuais da webpage. 
+		Exemplo: mudar a fonte, tamanho da fonte e cor da fonte. Mudar a cor do fundo. Mudar o tamanho e cor de um card e etc...
+
+
+
+-Qual é a diferença entre HTML, CSS e JavaScript?
+	HTML é uma linguagem de marcação. Tem como objetivo colocar os elementos visiveis no site. 	
+	CSS é uma linguagem de estilização/design. Tem como objetivo estilizar os elementos visiveis do site para que fiquem mais atraentes para os usuários.
+	JavaScript é uma linguagem de programação (diferente das anteriores, essa trabalha com lógica de programação. Ação e reação, variaveis e etc). Tem como objetivo aplicar uma maior interatividade no site, deixando mais morderno e interessante. 
+
+
+---------------------------------
+TESTANDO O CONHECIMENTO:
+---------------------------------
+
+-O que é uma tag HTML?
+	É um elemento que faz parte da própria estrutura que forma o HTML de uma webpage, assim como faz parte dos elementos visiveis da pagina. Por exemplo: texto, lista, imagens e etc. 
+	As tag servem para o navegador saber quando começa um determinado conteúdo e quando ele acaba, ou que tipo de conteúdo será exibido. Algumas TAGs possuem fechamento e outras não. 
+		Exemplo: <p>Aqui tem um parágrafo</p>
+			<img> <br>
+
+
+
+-Quais são as três partes de um elemento HTML?
+	A primeira parte é a abertura da tag. Exemplo: <p>
+	A segunda parte é o conteúdo. Exemplo: Aqui tem um parágrafo.
+	A terceira parte é o fechamento da tag. Exemplo: </p>
+
+		Elemento completo: <p>Aqui tem um parágrafo</p>
+
+
+
+
+
+
+
+
+
+

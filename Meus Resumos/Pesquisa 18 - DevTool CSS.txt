@@ -1,0 +1,21 @@
+---------------------------------
+TESTANDO O CONHECIMENTO:
+---------------------------------
+
+-Como você seleciona um elemento especifico na sua página com Developer tools do seu navegador?
+	
+		Botão direito do mouse no elemento da página e clica em inspecionar/inspect.
+
+
+-O que significa um risco/linha/tachado em um elemento CSS nas ferramentas de desenvolvedor do seu navegador?
+	
+		Significa que esse elemento está sendo substituído.	
+
+
+
+-Como você muda o CSS em tempo real em um elemento especifico de uma web page com Developer tools do seu navegador?
+	
+		Selecionando o elemento com inspect, depois usando a opção element.style do painel Styles. Também é possível adicionar uma class, id, nova regra para o elemento ou alterar os valores diretamente na regra do elemento.	
+		
+
+

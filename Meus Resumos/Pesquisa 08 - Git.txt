@@ -1,0 +1,76 @@
+---------------------------------
+PESQUISA: 
+---------------------------------
+
+*1-SISTEMAS DE CONTROLE DE VERSÃO:
+
+	Controle de Versão é um sistema onde você pode controlar/gravar/registrar as versões/alterações de um arquivo/projeto. Esse sistema é muito importante para desenvolvedores e equipes de diversas áreas.
+	
+	Sistema de Controle de Versão (VCS - Version Control System) Local:
+		É um tipo de sistema aplicado apenas na máquina/PC do usuário. A desvantagem é que o outras pessoas não podem colaborar com o projeto e caso vem ocorrer algum problema na maquina local, os arquivos serão comprometidos. 
+ 
+	Sistema de Controle de Versão Centralizado (CVCSs - Centralized Version Control Systems):
+		É um tipo de sistema onde todo o controle fica centralizado em um servidor, assim, permitindo a colaboração de outros usuários e mantendo uma segurança em caso de dano na máquina do usuário/desenvolvedor. Uma grande desvantagem desse sistema é que se por algum motivo o servidor ficar fora do ar, toda a equipe ou desenvolvedor ficará sem acesso ao controle de versões.
+
+	Sistema Dristribuídos de Controle de Versão (DVCSs - Distributed Version Control Systems): 
+	É um tipo de sistema onde o controle de versão é totalmente compartilhado e armazenado no servidor e local dos usuários. Então mesmo que o servidor fique fora do ar, ainda assim será possível continuar com o controle de versão. Esse método é o mais seguro e eficiente. 
+
+
+*2-UMA BREVE HISTÓRIA DO GIT:
+	O Git nasceu em 2005 a partir das necessidades da comunidade/criador que desenvolveu o Kernel Linux, pois sua relação com a empresa do Bitkeeper havia sido rompida (questões comérciais, o sistema passou a ser pago). 
+	Os principais objetivos ao desenvolverem o Git eram:
+		-Velocidade
+		-Design simpes
+		-Total distribuição 
+		-Capacidade de lidar com grandes projetos
+		-Forte suporte para desenvolvimento não linear (milhares de ramificações paralelas)
+
+
+
+*3-O QUE É GIT?:
+	Git é um sistema (moderno, rápido e eficaz) de controle de versão DISTRIBUIDA. Totalmente recomendado para profissionais que trabalham com criação e alteração de arquivos, colaboração em equipe e etc. 
+	Além da velocidade (alteração instantânea e armazenamento local), o git permite fazer e refazer alterações a qualquer momento, sem contar com a possiblidade de criar ramificações de alterações do arquivo base. 
+	
+
+
+---------------------------------
+TESTANDO O CONHECIMENTO:
+---------------------------------
+
+-Qual tipo de programa é o Git?
+	Git é um tipo de programa de Sistema de Controle de Versão Direcionada. Ele tem a mesma base dos programas VCS.
+
+
+
+-Quais são as diferenças entre Git e um Editor de Texto em termo de o que eles salvam e como eles gravam os registros?
+	Git salva o registro de todas as alterações e possibilita a criação de ramificações dessas versões alteradas. Além de possibilitar o trabalho em equipe no mesmo arquivo em tempo real, entre outras funcionalidades que um editor de texto comum não teria. 
+	Normalmente um editor de texto tem sua opção de salvar registro muito limitada, sem contar as ferramentas que não possuem a mesma eficiente do Git para um trabalho compartilhado em grande escala.
+
+
+
+-O Git trabalha em um nível Local ou Remoto?
+	O Git inicialmente trabalha de maneira Local, mas em conjunto com um servidor ou plataformas de repositório de versionamento é possível trabalhar remoto também.
+
+	
+
+-O GitHub trabalha em nível Local ou Remoto?
+	O GitHub é uma plataforma/serviço online/remoto que serve como repositório de versionamento. Ideal para trabalhar em conjunto com o Git. 
+
+
+
+-Por que o Git é útil para um desenvolverdor individual?
+	Porque é possível controlar de maneira mais organizada e segura as versões/alterações de um projeto. Sendo possível voltar no tempo de qualquer alteração.
+
+
+
+-Por que Git e GitHub são úteis para uma equipe de desenvolvedores?
+	Porque é possível que toda a equipe possa controlar de maneira mais organizada e segura as versões/alterações de um projeto. Sem ter conflitos de alterações. Sendo possível voltar no tempo de qualquer versão do projeto e sabendo quem alterou e o que foi alterado.
+
+	
+
+
+
+
+
+
+

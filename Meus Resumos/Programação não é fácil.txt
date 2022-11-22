@@ -1,0 +1,16 @@
+*Aprender programação não é fácil!*
+
+-Aprender programação não é para qualquer pessoa. Um exemplo é o mercado (2022) em que existem mais vagas do que profissionais.
+
+É algo que exige muita dedicação e esforço. De modo que só vale a pena se dedicar tanto, se for algo que você realmente goste ou tenha o mínimo de afinidade pela área. 
+
+A curva de aprendizado e confiança na programação é bem diferente das curvas das outras áreas profissionais. 
+
+Normalmente a curva dos DEVs começa de maneira "positiva" porque o conhecimento da base é fácil de ser aplicado e absorvido. 
+Já na continuidade da curva a tendência é seguir de maneira linear para depois ter uma queda, pois esse é o momento onde começam a surgirem problemas mais "complexos" ou vem a noção do quanto a área da programação é vasta... 
+Por ultimo, a curva tende a subir após pesquisas/buscas, tentativas e dedicação. 
+
+Claro que isso é algo bem resumido e "superficial" levando em conta que existem muitas possibilidades e obstaculos. 
+
+A ideia é buscar ter uma base sólida e não buscar soluções rápidas/atalhos.
+ 

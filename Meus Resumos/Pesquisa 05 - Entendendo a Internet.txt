@@ -1,0 +1,138 @@
+---------------------------------
+TESTANDO O CONHECIMENTO:
+---------------------------------
+
+-O que é uma network?
+	É um sistema de rede onde conecta vários computadores seja via Internet, Intranet ou Extranet. Um exemplo: 10 computadores no lugar de serem conectados um uma ao outro (daria 49 cabos mais ou menos) é mais eficaz conectar cada computador a um Roteador, assim criando sua própria network.
+
+-O que é a Internet?
+	É basicamente a estrutura "física" da web. É uma infraestrutura que conecta vários computadores (escala global) por via de cabos, roteadores, modem e ISP (empresas provedoras de internet). 
+
+-O que é um Endereço de IP?
+	É o número de identificação de um dispositivo capaz de conectar a Internet. Esse número é composto por uma sequência numerica separada por pontos.
+
+-O que é Roteador?
+	É um dispositivo responsável pela rota de comunicação e dados entre computadores. 
+
+-O que é um ISP (Internet Service Provider)?
+	É uma empresa provedora de internet, responsável pela comunicação e envio de dados a partir de roteadores especiais. Esses recebem os dados do modem do cliente e que são enviados para outros ISP até chegar no servidor. 
+
+-O que são Packets (pacotes) e como eles são usados para tranferir dados?
+	Packets são pequenos pacotes de dados que são usados para transferir informações de maneira mais rápida e segura. Pois ao transformar os dados em pequenos packets, eles podem ser enviados por rotas diferentes e de maneira mais segura (já que se algo for corrompido é fácil substituir/recupear um packet), além de permirtir que vários usuários possam solicitar o mesmo dado ao mesmo tempo.
+
+-O que é um Client (cliente)?
+	Client é basicamente um PC (normalmente de usuário/cliente) que solicita um determinado serviço/acesso de dados.
+
+-O que é um Server (Servidor)?
+	Server ou servidor é basicamente um PC que é reponsável pelo gerenciamento/liberação/armazenamento de dados do usuário/cliente/serviço.
+
+-O que é uma Web Page (Página da web)?
+	Web page é um documento/página que normalmente são acessadas na web por via de navegadores.
+
+-O que é um Web Server (Servidor Web)?
+	Web server é uma servidor que armazena os websites ou web pages. É um computador responsável por hospedar vários websites web pages e etc.
+
+	
+-O que é um web browser (Navegador web)?
+	Web browser ou navegador é um tipo de software/aplicativo/programa usado para acessar sites, web pages pela Web.
+
+-O que é um Search engine (Motor de busca)?
+	Search engine/motor de busca é uma aplicação/site usada a partir de um navegador para encontrar de maneira mais fácil outros sites e páginas na web.
+
+-O que é um DNS (Domain Name System / sistema de nome de domínio) request?
+	DNS é basicamente o sistema de nomes de domínio. DNS request é uma solicitação ao servidor web, pelo navegador, a partir do usuário para acessar um determinado domínio.
+
+-Qual Browser você está usando atualmente?
+	My browser is Google Chrome!
+
+-Nas suas próprias palavras, explique o que acontece quando você faz uma busca no google.com:
+	Quando faço uma busca no google (motor de busca usado a partir de um navegador/browser) ele vai procurar pelo nome de domínio do site/palavra/frase que pesquisei em servidores. Essa solicitação normalmente segue o protocolo HTTP/HTTPS. O navegador consulta o DSN e solicita a permissão para acessar (fazer uma cópia do documento/site para o meu computador).
+	 
+	
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------
+PESQUISA: 
+---------------------------------
+-O que é um Browser (Navegador)?
+	Browser/Navegador é um software/aplicativo usado para navegar na web. A partir da busca por um site, ele acessa o DNS em busca do IP do site solicitado. Ao receber permissão uma cópia do site é enviado para o usuário e o navegador faz a rederização/leitura desse site para o usuário.
+
+-O que é endereço de IP?
+	 Todo dispositivo (seja cliente ou servidor) tem um endereço de IP (uma sequência de números separados por pontos (ex: 192.158.1.38. Cada número do conjunto pode variar entre 0 e 255.) É como o "CPF" do seu dispositivo, mas para facilitar a identificação por nós humanos, é dado um nome de domínio (google.com é um exemplo).
+
+
+-Como a internet funciona?
+	Vamos usar um exemplo de uma escola com muitos computadores. Basicamente os computadores são ligados a um Roteador (faz a roda de dados e comunicação entre eles) e do roteador seguem as informações para um Modem, que por sua vez se comunica com um ISP (Provedor de Serviço de Internet - uma empresa que gerencia alguns roteadores especiais). Esses IPS podem se comunicar com outros ISP, assim dando funcionalidade de comunicação a nossa Internet.
+
+	*Internet e a Web: 
+		A internet é como a parte física. É uma infra-estrutura, já a web é um serviço sobre a infraestrutura. É importante notar que existem outros serviços oferecidos em cima da internet, como e-mail, IRC (serviço de mensagens) e outros serviços.
+
+	*Intranets e Extranets:
+		A intranet é um internet/rede privada, normalmente usada por empresas para comunicação interna e troca de dados. 
+		A extranet é rede entre a intranet e a internet, normalmente usada para que alguns parceiros empresáriais/clientes/colaboradores posso se comunicar e acessar/trocar dados.
+
+	*Web page, Website, Web server e Search engine:
+		Web page é um documento que pode ser visto como uma página na internet, ela pode ser acessa por uma navegador (browser: firefrox, Safari, Chrome e etc). É comum chamar de "Pages".
+		Website é documento com várias web pages que pode ser conectadas por muitas maneiras. É comum chamar de "Web site ou site".
+		Web server é um computador responsável por hospedas um site na internet.
+		Search engine é um serviço (google, yahoo, bing) na web usado para encontrar outras web pages, websites e etc. O mecanismo funciona a partir de navegadores.
+	
+
+ 
+ 
+	*Cliente e Servido:
+		Cliente é o termo usado para dispositivos dos usuários (computador, notebook, tablet e celular) que estão conectados a Web a partir de um navegador ou aplicação.
+		Servidor é o termo usado para dispositivos das empresas/instituição que oferecem determinados serviços de amarzenamentos (página da web, aplicações e etc) que por sua vez são enviadas as cópias das informações/dados para o Cliente.
+
+	*As outras partes:
+		Vamos imaginar que o Cliente seja sua casa e o Servidor seja a loja no final da rua que você deseja comprar algo. A estrada seria a Internet e o serviço realizado por via dela é a Web. 
+
+		TCP/IP (Transmission Control Protocol / Internet Protocol): São protocolos de comunicação que por via deles são determinados como os dados serão transmitidos. 
+		Importante não confundir com ENDEREÇO DE IP. Todo dispositivo (seja cliente ou servidor) tem um endereço de IP (uma sequência de números separados por pontos (ex: 192.158.1.38. Cada número do conjunto pode variar entre 0 e 255.) É como o "CPF" do seu dispositivo.
+		Imagine o TCP/IP como o um transporte (carros, bicicleta e etc) que pode ser usado para chegar a sua casa (Cliente) ou a loja (Servidor).
+
+		DNS (Domain Name System): É como um catálogo de endereços de IP / endereço de sites. Ao tentar entrar em um site, o navegador busca o DNS para achar o endereço de IP do site e assim conseguir enviar a mensagens HTTP para o lugar correto. Imagine como uma busca pelo endereço da loja ou da sua casa.
+
+		HTTP (HyperText Tranfer Protocol): É um protocolo que define uma linguagem para o cliente e servidor se comunicarem. No exemplo seria uma linguagem que você usa para encomendar/comprar o produto da loja. 
+
+		Component Files (Arquivos componentes): Um site é composto por muitos tipos de arquivos. Imagine o site como o produto e esses arquivos que compõem o site como partes do produto que você vai comprar na loja.
+
+			Code Files (arquivos de código): Os sites são criados pricipalmente a partir de HTML, CSS e JavaScript, embora existam outras tecnologias também.
+
+			Assets (Ativos): É um nome coletivo dos outros itens que compõem o site, como imagens, músicas, vídeos, documentos e PDFs.
+
+	*Packets:
+		São chamados de "pacotes" justamente porque os dados originais são transformados em muitos pedaços para que facilite o envio (mais rotas e acesso de vários usuários aos dados) e a segurança (se uma parte pequena for corrompida é mais fácil substituir ela). 
+		
+-Entendendo os DNS/Nomes de Domínio:
+	*TLD (Top-Level Domain/Domínio de nível superior) informam ao usuário o tipo de serviço que existe por trás daquele domínio. Os TLDs mais genéricos ( .com, .org, .net)
+
+	*Label segue antes do TDL e são conhecidos como SLD (Domínio de nível secundário). Exemplo: Mozilla.org
+	Também existem "subdomínios" como developer.mozilla.org , iot.mozilla.org ou bugzilla.mozilla.org
+
+-HTTP/HTTPs:
+	HTTP usa a porta 80 e é um protocolo para transferência de dados em hipertexto.
+	HTTPS usa a porta 443 e é um protocolo para transferência de dados em hipertexto com uma camada de segurança criptografada. Seja com HTTP+SSL ou HTTP+TLS (essa é mais usada atualmente).
+
+-Fibra óptica:
+	A Internet via fibra óptica tem muitas vantagens sobre a internet via cabo (cobre). Por usar a luz para transmitir os dados, ela tem muito mais velocidade, durabilidade, estabilidade, alcance e segurança. Sua estrtura é dividida em 3 partes: núcle (passa a luz), Casca (confina a luz) e revestimento (protege a fibra). 
+	Sobre o envio via óptica: A luz é codificada em uma línguagem binária (0 e 1) passa pelo cabo via pulsos de luz e ao chegar no destino é decodificada pelo dispositivo. 
+
+	
+	
+
+
+
+
+
+
+
