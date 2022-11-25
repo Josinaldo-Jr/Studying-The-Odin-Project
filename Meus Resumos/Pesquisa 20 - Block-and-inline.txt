@@ -1,0 +1,28 @@
+---------------------------------
+TESTANDO O CONHECIMENTO:
+---------------------------------
+
+-Qual é a diferença entre um elemento block e um elemento inline?
+	
+		A principal diferença entre um elemento block e um elemento inline é que os elementos block ocupam toda uma linha, assim ficando empilhado. Já os elementos inline ocupam apenas o espaço com base no seu tamanho e assim ficando normalmente lado a lado. 
+
+			Exemplos de elementos block: div, p, li, ol, ul...
+
+			Exemplos de elementos inline: span, img, a, input...
+
+
+
+-Qual é a diferença entre um elemento inline e um elemento inline-block?
+
+		inline: é mantida na mesma linha, mas não tem a largura e altura respeitadas, assim sobrepondo outros elementos.
+
+		inline-block: é mantida na mesma linha, mas tem a largura e altura respeitadas, assim mantendo distância dos outros elementos.
+
+
+
+-Quais desses elementos são block e quais são inline?
+
+		h1: block.
+		button: inline.
+		div: block.
+		span: inline.
