@@ -75,3 +75,24 @@
     margin-bottom: 20px;
 }
 
+.footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-item {
+    border: 1px solid #fff;
+    background: #d6e9fe;
+    height: 200px;
+    flex: 1;
+}
+
+.footer-three {
+    flex: 2;
+}
+
+.footer-one, .footer-three {
+    background: #5995da;
+    flex: initial;
+    width: 300px;
+}
