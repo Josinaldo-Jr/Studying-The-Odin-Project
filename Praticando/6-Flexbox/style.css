@@ -1,3 +1,14 @@
+/*
+Use display: flex;para criar um contêiner flexível.
+Use justify-contentpara definir o alinhamento horizontal dos itens.
+Use align-itemspara definir o alinhamento vertical dos itens.
+Use flex-directionse precisar de colunas em vez de linhas.
+Use os valores row-reverseou column-reversepara inverter a ordem dos itens.
+Use orderpara personalizar a ordem de elementos individuais.
+Use align-selfpara alinhar itens individuais verticalmente.
+Use flexpara criar caixas flexíveis que podem esticar e encolher.
+*/
+
 * {
     margin: 0;
     padding: 0;
@@ -18,10 +29,10 @@
     justify-content: space-between;
 }
 
-.links {
+/*.links {
     display: flex;
     justify-content: flex-end;
-}
+}*/
 
 .login {
     margin-left: 20px;
@@ -95,4 +106,8 @@
     background: #5995da;
     flex: initial;
     width: 300px;
+}
+
+.signup {
+    margin-left: auto;
 }
