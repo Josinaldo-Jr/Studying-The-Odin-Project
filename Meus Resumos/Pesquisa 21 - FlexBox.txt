@@ -13,3 +13,25 @@ TESTANDO O CONHECIMENTO:
 -Como você cria um flex item?
 	
 		Para criar um flex item é só colocar elemento/item desejado dentro de um flex container.
+
+
+---------------------------------
+TESTANDO O CONHECIMENTO II:
+---------------------------------
+
+-Quais são os 3 valores definidos no shorthand flex propriedade (flex: 1 1 auto;)?
+	
+		O primeiro valor é referente ao flex-grow = 1. 
+		Defini o valor de aumento. Referente ao tamanho máximo do item flex. O quanto ele vai aumentar em relação ao flex container.
+		
+		O segundo valor é referente ao flex-shrink = 1. 
+		Defini o valor de redução. Referente ao tamanho mínimo do item flex. O quanto ele vai diminuir em relação ao flex container.
+
+		O terceiro valor é referente ao flex-basis = auto. 
+		Defini o valor de tamanho inicial. Referente ao tamanho do item flex. O qual será o tamanho dele em relação ao with definido do flex item.
+
+
+
+-Quais são os 3 valores definidos para o shorthand flex (flex: auto;)?
+	
+		flex: auto;   =  flex: 	1 1 auto;
