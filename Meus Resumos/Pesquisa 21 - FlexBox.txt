@@ -35,3 +35,31 @@ TESTANDO O CONHECIMENTO II:
 -Quais são os 3 valores definidos para o shorthand flex (flex: auto;)?
 	
 		flex: auto;   =  flex: 	1 1 auto;
+
+
+
+---------------------------------
+TESTANDO O CONHECIMENTO III:
+---------------------------------
+
+-Como você faz os flex itens mudarem da vertical para horizontal?
+	
+		Usando a propriedade e valor: flex-direction: column;
+
+
+
+-Em uma coluna (column) do flex-container, o que o valor do flex-basis refere?
+	
+		A altura (height) do objeto (flex item).
+
+
+
+-Em uma fileira (row) do flex-container, o que o valor do flex-basis refere?
+	
+		A largura (width) do objeto (flex item).
+
+
+
+-Por que as duas questões anteriores têm repostas diferentes?
+	
+		Porque cada uma é referente a uma direção/eixo (direction/axes) diferente: x e y / horizontal e vertical.
