@@ -63,3 +63,30 @@ TESTANDO O CONHECIMENTO III:
 -Por que as duas questões anteriores têm repostas diferentes?
 	
 		Porque cada uma é referente a uma direção/eixo (direction/axes) diferente: x e y / horizontal e vertical.
+		
+
+
+---------------------------------
+TESTANDO O CONHECIMENTO IV:
+---------------------------------
+
+-Qual é a diferença entre justify-content e align-items?
+	
+		Justify-content vai alinhar/posicionar o conteúdo (flex itens) no eixo principal (normalmente na horizontal).
+
+		Align-items vai alinhar/posicionar o conteúdo (flex itens) no eixo cruzado (normalmente na vertical).
+
+
+
+-Como você usa flexbox para centralizar completamente uma div dentre de um flex container?
+	
+		Usando justify-content: center; e
+		align-items: center;
+
+
+
+-Quais as diferenças entre "justify-content: space-between" e "justify-content: space-around"?
+	
+		"justify-content: space-between" vai manter um espaço/distanciamento igual entre os flex itens, mas sem manter distanciamento nos lados do do flex container. 
+
+		"justify-content: space-around" vai manter um espaço/distanciamento igual entre os flex itens e os lados do flex container. 
