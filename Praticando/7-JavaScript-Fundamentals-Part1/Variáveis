@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<script>
+"use strict";
+
+let admin;
+let name = 'John';
+
+admin = name;
+
+alert(admin); 
+
+</script>
+
+
+//Copiando variáveis
+
+
+
+
+--------------
+
+
+<!DOCTYPE html>
+<script>
+"use strict";
+
+let ourPlanetName = 'Earth';
+let currentVisitorName = 'John';
+
+</script>
+
+//Dando nomes para variáveis
+
+
+--------------
+
+<!DOCTYPE html>
+<script>
+"use strict";
+
+const BIRTHDAY = '18.04.1982';
+const age = someCode(BIRTHDAY);
+
+</script>
+
+
+
+
