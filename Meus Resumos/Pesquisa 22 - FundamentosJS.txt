@@ -1,0 +1,160 @@
+---------------------------------
+TESTANDO O CONHECIMENTO:
+---------------------------------
+
+-Nome de três maneira para declarar uma variável?
+	
+		var
+		let
+		const
+
+
+
+-Qual das três variáveis você deve evitar e por quê?
+	
+		var. Porque é uma variável mais antiga e pode não se comportar da maneira esperada. Ela foi praticamente substituída por let. 
+
+		var só será encontrar em scripts mais antigos. 	
+
+
+
+-Qual regra você deve seguir quando for nomear uma variável?
+	
+		Colocar a primeira letra em caixa baixa e em caso de uma segunda palavra é indicado colocar junto, mas começando com caixa alta. Exemplo:
+
+		userName, visitorName, visitor, myVeryLongName e etc.
+
+		É muito recomendado coloca palavra que façam sentido com a variável e que sejam simples de entender. 
+
+
+
+-O que acontece quando você adiciona numbers e strings juntas?
+	
+		No final será considerado uma string.
+		Se a string estiver no começo da operação, todos os valores serão strings. 
+		Exemplo:
+			x = 2;
+			y = 4;
+			x + Y + "10";
+			610
+
+		Se a string estiver no final da operação, os valores serão somados e depois colocados juntos a string. Exemplo:
+			x = 2;
+			y = 4;
+			"10" + x + Y;
+			1024
+
+
+
+-Como o Modulo %, ou Resto, operador funciona?
+	
+		Ele vai dividir o operando da esquerda igualmente pelo operando da direita, assim deixando o Resto como resultado.  
+		Exemplo:
+			11 % 2;
+			1
+			ou 
+			14 % 3; 
+			2
+
+
+
+-Explique a diferença entre == e ===?
+	
+		== testa se os valores são iguais. 
+			Exemplo:
+				1 == 1
+				true
+
+				1 == true
+				ture
+
+				1 == '1'
+				false
+		=== testa se os valores e tipos são iguais.
+			Exemplo:
+				1 === 1
+				true
+
+				1 === true
+				false
+
+				true === true 
+				true
+
+
+
+-Quando você pode receber um resultando NaN?
+	
+		Quando o resultado Não for um Número.
+		Not a Number.
+			Exemplo:
+				x = 10 / "orange";
+
+
+
+-Como você incrementa ou decrementa um número?
+	
+		Usando ++ antes do número.
+		Usando -- antes do número.
+			Exemplo:
+				x = 10;
+				++x; ou --x;
+				x = 11 ou x = 9
+
+
+
+-Explique a diferença entre operadores prefixing e postfixing incremento/decremento:
+	
+		Prefixing adiciona ou subtrai antes do resultado.
+		postfixing adiciona ou subtrai depois do resultado.
+			Exemplos: ++x ou x++
+
+
+
+-O que é precedente de um operador e como ele é tratado no JS?
+	
+		Precedência de um operador é uma valor de prioridade na execução da operação. Quanto maior a precedência, maior a sua prioridade na ordem da operação.
+
+			Exemplos: * tem procedência 12, + tem procedência 11. Assim o * será o primeiro na operação. 
+				1 + 2 * 3
+				7 (2 * 3 = 6 + 1)
+
+
+
+-Como você acessa developer tools e console?
+	
+		Usando F12 e escolhendo a opção de aba console, ou, botão direito e escolhendo a opção inspect.
+
+
+
+-Como você registra informações no console?
+	
+		Digitando dentro da aba console ao lado direito do navegador (dependendo da interface).
+		Ou usando a tag script e console.log().
+
+			Exemplo:
+				<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Page Title</title>
+</head>
+<body>
+  <script>
+    // Your JavaScript goes here!
+    console.log("Hello, World!")
+  </script>
+</body>
+</html>
+
+
+
+-O que o operador unário + faz para representar strings de números inteiros? Por exemplo. +"10"
+	
+		Ele converte a string em um número. 
+			Exemplo: 
+				let apples = "2";
+				let oranges = "3";
+				alert( +apples + +oranges );
+				5
+
