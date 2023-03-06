@@ -1,0 +1,33 @@
+---------------------------------
+TESTANDO O CONHECIMENTO:
+---------------------------------
+
+-Quais são os 8 tipos de dados em JavaScript?
+
+	number: para números de qualquer tipo. Inteiros ou flutuantes.
+
+	string: para texto, podendo ter zero ou mais caracteres. 
+	
+	begint: para números inteiros de comprimento arbitrário.
+
+	boolean: para true / false.
+	
+	null: para valores nulos / desconhecidos. 
+	
+	undefined: para valores não atribuídos.
+	
+	symbol: para identificadores exclusivos.
+	
+	object: para estruturas de dados mais complexas. 	
+
+
+
+-Qual tipo de dado não é primitivo?
+
+	object. Porque os outros tipos de dados só podem armazenar uma única coisa (seja uma string, um número e etc), já object consegue armazenar coleções de dados diferentes e mais complexos. 
+
+
+
+	-Qual  é a relação entre null e undefined?
+
+		Tanto null como undefined são valores especiais. Onde cada um tem o seu valor próprio. 
