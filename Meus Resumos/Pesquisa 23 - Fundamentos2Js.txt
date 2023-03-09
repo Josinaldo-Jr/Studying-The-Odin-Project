@@ -28,6 +28,184 @@ TESTANDO O CONHECIMENTO:
 
 
 
-	-Qual  é a relação entre null e undefined?
+-Qual é a relação entre null e undefined?
 
-		Tanto null como undefined são valores especiais. Onde cada um tem o seu valor próprio. 
+	Tanto null como undefined são valores especiais. Onde cada um tem o seu valor próprio. 
+
+
+
+-Qual é a diferença entre aspas simples (') e aspas duplas (") e crase (`) para strings?
+
+		Tanto as aspas simples (') e aspas duplas (") possuem a mesma função. Só precisa ter cuidado para não acabar misturando elas de maneira errada. 
+
+			Exemplo correto: 
+				const sglDbl = 'Would you eat a "fish supper"?';
+				const dblSgl = "I'm feeling blue.";
+				console.log(sglDbl);
+				console.log(dblSgl);
+
+		Já a crase (`) serve como uma string normal, mas com o adicional de conseguir unir strings. 
+
+			Exemplo: 
+					const greeting = `Hello`;	
+					const name = "Chris";
+					const greeting = `Hello, ${name}`;
+					console.log(greeting); // "Hello, Chris"
+
+
+
+-Qual é o termo para incorporar variáveis/expressões em uma strings?
+-Qual tipo de quote/aspas deixa você incorporar variáveis/expressões em uma string?
+-Como você incorpora variáveis/expressões em uma string?
+
+	Usando crase (`) com ${expressão}.
+	Ficando `${expressão}`;
+
+		Exemplo:
+			const name = "John";
+			const age = 30;
+
+			// usando template literals para incorporar variáveis em uma string
+
+			const message = `Meu nome é ${name} e eu tenho ${age} anos.`;
+
+			console.log(message); // Meu nome é John e eu tenho 30 anos.
+
+		Template Literal or template string. 
+		Usando crase (`) com ${expressão}. 
+
+
+
+-Como você usa um caractere de escapa em uma string?
+
+	Usando \
+		Exemplo:
+
+		const bigmouth = 'I\'ve got no right to take my place…';
+		console.log(bigmouth);	
+		
+
+
+-Qual é a diferença entre os métodos slice/substring/substr string?
+
+	slice corta parte de uma string e retorna essa parte como uma string. A contagem começa a partir de 0, caso o valor seja negativo a contagem começa a partir do final da string. Exemplo:
+		let text = "Apple, Banana, Kiwi";
+		let part = text.slice(7, 13); 
+		// Banana
+
+	substring é semelhante a slice. A diferença é que em casos de números negativos a contagem é feita a partir de 0. 
+
+	substr é semelhante a slice. A diferença é que o segundo parâmetro segue a contagem a partir do primeiro parâmetro. Exemplo:
+		let str = "Apple, Banana, Kiwi";
+		let part = str.substr(7, 6);
+		// Banana
+
+
+
+-Quais são os 3 operadores lógicos e o que eles representam?
+
+	|| (OR) - Manipula apenas valores booleanos. Achando o primeiro true.
+		alert( true || true );   // true
+		alert( false || true );  // true
+		alert( true || false );  // true
+		alert( false || false ); // false
+
+	&& (AND) - Retorno true se ambos os operandos forem verdadeiros, do contrário, retorna false. Achando o primeiro false.
+		alert( true && true );   // true
+		alert( false && true );  // false
+		alert( true && false );  // false
+		alert( false && false ); // false
+
+	! (NOT) - Converte o operando para true/false e retorna o valor inverso. 
+		alert( !true ); // false
+		alert( !0 ); // true
+
+
+
+-Quais são os operadores de comparação?
+
+	> Maior que
+	< Menor que
+	>= Maior ou igual
+	<= Menor ou igual
+	== Igualdade
+	!= Não igualdade
+
+
+
+-O que são valores verdadeiros e falso?
+-O que são valores falos em JavaScript?
+
+	false - 0 é um falso, que é equivalente a uma string vazia, null, undefined ou NaN.
+
+	true - 1 ou outros valores são considerados verdadeiros. 
+
+
+
+-Qual é a sintaxe para a condição if/else/switch?
+-O que são condicionais? 
+
+	if - especifica um bloco de código para ser executando, se uma condição for verdadeira. 
+		let a = 1;
+		let b = 0;
+		if (a>b) {
+			console.log(true);
+		}
+
+	else - especifica um bloco de código para ser executando, se uma condição for falsa.
+		let a = 1;
+		let b = 2;
+		if (a>b) {
+			console.log(true);
+		} else{ 
+			console.log(false);
+		}
+
+	else if - especifica uma nova condição se a primeira não for verdadeira. 
+		let a = 1;
+		let b = 2;
+		if (a>b) {
+			console.log(true);
+		} else if (a<b) {
+			console.log("you are craze!");
+		} else{ 
+			console.log(false);
+		} 
+
+	switch = especifica muitos blocos de código alternativos a serem executados. 
+		switch (expressão) {
+			case choice1:
+				run this code
+				break;
+
+			case choice2:
+				run this code instead
+				break;
+
+			default:
+				actually, just run this code	
+		}
+
+
+
+-Qual é a sintaxe para uma operador ternário?
+
+	condição ? execute este código : execute este código em vez disso;
+		Exemplo: 
+			const greeting = isBirthday
+  			? 'Happy birthday Mrs. Smith — we hope you have a great day!'
+  			: 'Good morning Mrs. Smith.';
+
+
+
+-O que é nesting/aninhamento?
+
+	É basicamente combinar if/else com outros if/else.
+		Exemplo:
+			if (choice === 'sunny') {
+  				if (temperature < 86) {
+    			para.textContent = `It is ${temperature} degrees outside — nice and sunny. Let's go out to the beach, or the park, and get an ice cream.`;
+  				} else if (temperature >= 86) {
+    			para.textContent = `It is ${temperature} degrees outside — REALLY HOT! If you want to go outside, make sure to put some sunscreen on.`;
+  				}
+			}
